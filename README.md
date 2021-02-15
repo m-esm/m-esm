@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **NestJS, MongoDB, GCP, Docker**
 
-- 📫 How to reach me **https://twitter.com/home**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
