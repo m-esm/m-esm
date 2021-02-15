@@ -1,7 +1,13 @@
  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-esm&label=Profile%20views&color=0e75b6&style=flat" alt="m-esm" /> </p>
+ 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=m-esm&show_icons=true&locale=en" alt="m-esm" />
-<p align="left"> <a href="https://twitter.com/mohsen_esm" target="blank"><img src="https://img.shields.io/twitter/follow/mohsen_esm?logo=twitter&style=for-the-badge" alt="mohsen_esm" /></a> </p>
+<p align="left"> 
+ 
+ <a href="https://twitter.com/mohsen_esm" target="blank"><img src="https://img.shields.io/twitter/follow/mohsen_esm?logo=twitter&style=for-the-badge" alt="mohsen_esm" /></a>
+ 
+ <img src="https://komarev.com/ghpvc/?username=m-esm&label=Profile%20views&color=0e75b6&style=flat" alt="m-esm" />
+ 
+ </p>
 
 - 🔭 I’m currently working on [Shellops](https://github.com/shellops)
 
