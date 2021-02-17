@@ -13,10 +13,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📝 I regularly write articles on [https://medium.com/@mohsenes](https://medium.com/@mohsenes)
+- 📝 I regularly write articles on [medium.com(https://medium.com/@mohsenes)
 
-- 💬 Ask me about **NestJS, MongoDB, GCP, Docker**
+- 💬 Feel free to ask me about **JS, Node.js, NestJS, MongoDB, GCP, Docker, Redis, WebSocket, CI/CD**
 
+- 🔒 I have a step by step demo on how to end to end encryption using javascript [npmjs.com/e2db](https://npmjs.com/e2db) [[DEMO]](https://runkit.io/m-esm/e2db/branches/master)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
