@@ -9,9 +9,6 @@
  
  </p>
 
-- 🔭 I’m currently working on [Shellops](https://github.com/shellops)
-
-- 🌱 I’m currently learning **Next.js**
 
 - 📝 [My Medium profile](https://medium.com/@mohsenes)
 
