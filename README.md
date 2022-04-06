@@ -17,7 +17,7 @@
 
 - 💬 Feel free to ask me about **JS, Node.js, NestJS, MongoDB, GCP, Docker, Redis, WebSocket, CI/CD**
 
-- 🔒 I have a step by step demo on how to end to end encryption using javascript [npmjs.com/e2db](https://npmjs.com/e2db) [[DEMO]](https://runkit.io/m-esm/e2db/branches/master)
+- 🔒 I have a step by step demo on how to do end to end encryption using javascript [npmjs.com/e2db](https://npmjs.com/e2db) [[DEMO]](https://runkit.io/m-esm/e2db/branches/master)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
