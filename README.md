@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📝 I regularly write articles on [medium.com](https://medium.com/@mohsenes)
+- 📝 [My Medium profile](https://medium.com/@mohsenes)
 
 - 💬 Feel free to ask me about **JS, Node.js, NestJS, MongoDB, GCP, Docker, Redis, WebSocket, CI/CD**
 
