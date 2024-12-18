@@ -5,8 +5,7 @@
  
  <a href="https://twitter.com/mohsen_esm" target="blank"><img src="https://img.shields.io/twitter/follow/mohsen_esm?logo=twitter&style=for-the-badge" alt="mohsen_esm" /></a>
  
- <img src="https://komarev.com/ghpvc/?username=m-esm&label=Profile%20views&color=0e75b6&style=flat" alt="m-esm" />
- 
+
  </p>
 
 
