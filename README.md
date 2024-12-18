@@ -1,5 +1,5 @@
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=m-esm&show_icons=true&locale=en" alt="m-esm" />
+
 <p align="left"> 
   <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
  
